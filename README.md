@@ -2,7 +2,7 @@
 
 Still polishing my skills... ✨
 
-I’m using GitHub as a way to collect tools and resources for offensive security — take a look at my Favorites for some great tools and inspiration. 🧠💥
+I’m using GitHub as a way to collect tools and resources for offensive security — take a look at my ⭐ for some inspiration 🧠
 
 About Me 🧰:
 
