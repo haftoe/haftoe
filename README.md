@@ -6,8 +6,8 @@ I’m using GitHub as a way to collect tools and resources for offensive securit
 
 About Me:
 
-- Self-proclaimed: Eternal script kiddie. Curious, hands-on, and always learning. Still no guru rank on Hack The Box
-- Current state: Working in cyber security as a security engineer (InfoSec, OffSec, Security and Risk Management)
+- Eternal script kiddie. Curious, hands-on, and always learning. Still no guru rank on Hack The Box.
+- Current state: Working in cyber security as a security engineer (InfoSec, OffSec, Security and Risk Management).
 
 Certifications 🎓
 
