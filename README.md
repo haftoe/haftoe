@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**haftoe/haftoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Still polishing my skills... ✨
 
-Here are some ideas to get you started:
+I’m using GitHub as a way to collect tools and resources for offensive security — take a look at my Favorites for some great tools and inspiration. 🧠💥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me 🧰:
+
+- Self-proclaimed: Eternal script kiddie — curious, hands-on, and always learning.
+- Current state: Working in cyber security as a security engineer
+
+Certifications 🎓
+
+- HTB CPTS 🏅
+- INE eJPTv2 🎖️
