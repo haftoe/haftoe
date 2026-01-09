@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Collecting tools and resources for offensive security - InfoSec, OffSec, Security and Risk Management
+Collecting tools and resources for security - InfoSec, OffSec, Security and Risk Management
 
 - HTB CPTS 🏅
 - INE eJPTv2 🏅
