@@ -2,7 +2,7 @@
 
 Collecting tools and resources for security research
 
-## Vulnerabilities Found
+## Vulnerabilities
 
 | Title | Package | Affected | Patched | Severity | CWE |
 |---|---|---|---|---|---|
