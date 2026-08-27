@@ -1,6 +1,6 @@
 ## Hi :)
 
-Security researcher
+Security researcher - for the love of the game
 
 ## Responsible disclosures / Vulnerabilities
 
