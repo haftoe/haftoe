@@ -1,6 +1,6 @@
-## haftoe
+## Hi :)
 
-Security researcher
+Security researcher - danieldoornekamp.com
 
 ## Vulnerabilities
 
