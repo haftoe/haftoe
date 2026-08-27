@@ -1,8 +1,8 @@
 ## Hi :)
 
-Security researcher - danieldoornekamp.com
+Security researcher
 
-## Vulnerabilities
+## Responsible disclosures / Vulnerabilities
 
 | Title | Package | Affected | Patched | Severity | CWE |
 |---|---|---|---|---|---|
