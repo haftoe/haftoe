@@ -1,6 +1,6 @@
 ## haftoe
 
-security research - danieldoornekamp.com
+Security researcher
 
 ## Vulnerabilities
 
