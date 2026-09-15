@@ -17,7 +17,7 @@
 ## Responsible disclosures / Vulnerabilities
 
 | Title | Package |  Severity | CWE |
-|---|---|---|---|---|---|
+|---|---|---|---|
 | [CVE-2026-65608](https://nvd.nist.gov/vuln/detail/CVE-2026-65608): RCE via `FlexDirectory::dynamicDataField()` ([GHSA-c4wf-2xxc-68qm](https://github.com/getgrav/grav/security/advisories/GHSA-c4wf-2xxc-68qm)) | `getgrav/grav` | 8.8 High (CVSS 3.1) | CWE-470 |
 | Missing Authorization on Document Template Download Endpoint, CVE requested ([GHSA-r3q3-p493-95x8](https://github.com/openemr/openemr/security/advisories/GHSA-r3q3-p493-95x8)) | `openemr/openemr` | 6.5 Medium (CVSS 3.1) | CWE-862 |
 | [CVE-2026-84208](https://nvd.nist.gov/vuln/detail/cve-2026-84208): Unauthenticated SQL Injection in User_Location Plugin ([GHSA-xj29-cg44-33q6](https://github.com/WWBN/AVideo/security/advisories/GHSA-xj29-cg44-33q6)) | `wwbn/avideo` | 7.5 High (CVSS 3.1) | CWE-89 |
