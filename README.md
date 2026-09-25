@@ -1,18 +1,9 @@
-##
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=C25E4B&height=250&section=header&text=haftoe&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Security%20enthusiast&descAlignY=58&descSize=25&descColor=FFFFFF"
-    width="100%"
-  />
-</p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C25E4B&center=true&vCenter=true&width=950&lines=%24+for+the+love+of+the+game;%24+id;uid%3D1%28vulnerability+research%29+gid%3D2%28responsible+disclosure%29"
     alt="Typing SVG"
   />
 </p>
-
 
 ## Responsible disclosures / Vulnerabilities
 
