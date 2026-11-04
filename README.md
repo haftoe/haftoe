@@ -1,7 +1,9 @@
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-     <img src="light_mode.svg">
-   </picture>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C25E4B&center=true&vCenter=true&width=950&lines=%24+for+the+love+of+the+game;%24+id;uid%3D1%28vulnerability+research%29+gid%3D2%28responsible+disclosure%29"
+    alt="Typing SVG"
+  />
+</p>
 
 ## Responsible disclosures / Vulnerabilities
 
